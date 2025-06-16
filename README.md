@@ -2,15 +2,18 @@
 <h3 align="center">🚀 Passionate Full Stack & DevOps Engineer | AI Enthusiast | LMS Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=50&lines=💻+Building+AI-powered+LMS+Systems;🌐+DevOps+Explorer+%7C+Cloud+Practitioner;🚀+Lifelong+Learner+%26+Open+to+Collab" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=%F0%9F%92%BB+Building+AI-powered+LMS+Systems;%F0%9F%A7%A0+Exploring+Speech+to+Speech+Translation;%E2%98%81%EF%B8%8F+AWS+Native+AI+Solutions+Developer;%F0%9F%8C%90+DevOps+Explorer+%7C+Cloud+Practitioner;%F0%9F%9A%80+Lifelong+Learner+%7C+Open+Source+Contributor;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer+%7C+AI+Integrator" alt="Typing SVG" />
 </p>
+
+
+
 
 ---
 
 ## 🚀 About Me:
 - 🔭 I’m currently working on **AI-powered LMS systems**
 - 👯 I’m looking to collaborate with **Industry Experts**
-- 🌱 I’m currently learning **DevOps tools & practices**
+- 🌱 I’m currently learning **AI, DevOps tools & practices**
 - 💡 Always exploring the intersection of **AI + Cloud + Web Development**
 
 ---
@@ -27,26 +30,23 @@
 
 ---
 
-## 💻 Tech Stack:
+<div align="center">
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css" />
+## 🛠 Tech Stack
 
-  <!-- Frontend / Backend -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,postman" />
+| Category        | Technologies |
+|----------------|-------------|
+| **Frontend**   | ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend**    | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) |
+| **Databases**  | ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) |
+| **AI/ML**      | ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-STT-blueviolet?style=for-the-badge) ![VITS](https://img.shields.io/badge/VITS-TTS-orange?style=for-the-badge) ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) |
+| **Tools**      | ![Git](https://img.shields.io/badge/git-%23F1502F.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white) |
 
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-  <!-- DevOps / Cloud -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,netlify" />
-
-  <!-- Tools / Design -->
-  <img src="https://skillicons.dev/icons?i=canva,figma,framer,vscode" />
-</p>
+</div>
 
 ---
+
 
 ## 📊 GitHub Stats:
 
@@ -68,8 +68,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Gopinath&label=Profile+Views&icon=1&color=0" alt="visitor count" />
-</p>
+
 
 <!-- Proudly created with 💡 by Gopi, styled using GPRM + Skillicons -->
