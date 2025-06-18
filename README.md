@@ -48,15 +48,16 @@
 ---
 
 
-## 📊 GitHub Stats:
+## 📊 GitHub Summary
+
+![Followers](https://img.shields.io/github/followers/gopinath-m?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/gopinath-m?label=Stars&style=social)
+![Public Repos](https://img.shields.io/badge/Public%20Repos-34-blue?style=flat-square)
+![Commits in 2024](https://img.shields.io/badge/Commits%20in%202024-1500-green?style=flat-square)
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopinath-m&show_icons=true&theme=radical" alt="stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopinath-m&theme=radical" alt="streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopinath-m&layout=compact&theme=radical" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gopinath-m&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
